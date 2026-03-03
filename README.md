@@ -39,7 +39,7 @@ This project demonstrates strong understanding of:
 
 ```bash
 make
-
+```
 ---
 
 ## Bash
