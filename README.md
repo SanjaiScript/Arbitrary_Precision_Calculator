@@ -44,17 +44,19 @@ make
 
 ## Bash
 
+```bash
 ./apc <operand1> <operator> <operand2>
-
+```
 ---
 
 ## Sample Input / Output
 
+```bash
 ./apc 100 + 100
 Result = 200
 
 ./apc 468786 - 65878
 Result = 402908
-
+```
 ---
 
